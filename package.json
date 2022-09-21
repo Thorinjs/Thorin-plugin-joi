@@ -1,0 +1,20 @@
+{
+  "name": "thorin-plugin-joi",
+  "author": "UNLOQ Systems",
+  "version": "2.0.0",
+  "dependencies": {
+    "joi": "17.6.0",
+    "libphonenumber-js": "1.10.13"
+  },
+  "description": "Thorin.js Joi.dev integration",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thorinjs/Thorin-plugin-joi"
+  },
+  "homepage": "http://thorinjs.com",
+  "bugs": {
+    "url": "https://github.com/Thorinjs/Thorin-plugin-joi/issues"
+  }
+}
