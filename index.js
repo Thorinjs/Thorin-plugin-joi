@@ -7,6 +7,7 @@ module.exports = function (thorin, opt, pluginName = 'joi') {
   let joiObj;
   opt = thorin.util.extend({
     logger: pluginName || 'joi',
+    store: 'sql',   // in the event that we use Joi.modelId()
     opt: {
       abortEarly: false,
       convert: true,
