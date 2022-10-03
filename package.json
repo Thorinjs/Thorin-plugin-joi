@@ -1,7 +1,7 @@
 {
   "name": "thorin-plugin-joi",
   "author": "UNLOQ Systems",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "dependencies": {
     "joi": "17.6.0",
     "libphonenumber-js": "1.10.13"
