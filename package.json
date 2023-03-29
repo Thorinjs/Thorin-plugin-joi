@@ -1,10 +1,10 @@
 {
   "name": "thorin-plugin-joi",
   "author": "UNLOQ Systems",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "dependencies": {
-    "joi": "17.7.0",
-    "libphonenumber-js": "1.10.14"
+    "joi": "17.8.3",
+    "libphonenumber-js": "1.10.24"
   },
   "description": "Thorin.js Joi.dev integration",
   "main": "index.js",
