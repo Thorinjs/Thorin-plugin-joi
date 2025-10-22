@@ -1,16 +1,16 @@
 {
   "name": "thorin-plugin-joi",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "thorin-plugin-joi",
-      "version": "2.0.8",
+      "version": "2.0.9",
       "license": "MIT",
       "dependencies": {
         "joi": "17.13.3",
-        "libphonenumber-js": "1.11.4"
+        "libphonenumber-js": "1.12.24"
       }
     },
     "node_modules/@hapi/hoek": {
@@ -57,9 +57,10 @@
       }
     },
     "node_modules/libphonenumber-js": {
-      "version": "1.11.4",
-      "resolved": "https://registry.npmjs.org/libphonenumber-js/-/libphonenumber-js-1.11.4.tgz",
-      "integrity": "sha512-F/R50HQuWWYcmU/esP5jrH5LiWYaN7DpN0a/99U8+mnGGtnx8kmRE+649dQh3v+CowXXZc8vpkf5AmYkO0AQ7Q=="
+      "version": "1.12.24",
+      "resolved": "https://registry.npmjs.org/libphonenumber-js/-/libphonenumber-js-1.12.24.tgz",
+      "integrity": "sha512-l5IlyL9AONj4voSd7q9xkuQOL4u8Ty44puTic7J88CmdXkxfGsRfoVLXHCxppwehgpb/Chdb80FFehHqjN3ItQ==",
+      "license": "MIT"
     }
   },
   "dependencies": {
@@ -107,9 +108,9 @@
       }
     },
     "libphonenumber-js": {
-      "version": "1.11.4",
-      "resolved": "https://registry.npmjs.org/libphonenumber-js/-/libphonenumber-js-1.11.4.tgz",
-      "integrity": "sha512-F/R50HQuWWYcmU/esP5jrH5LiWYaN7DpN0a/99U8+mnGGtnx8kmRE+649dQh3v+CowXXZc8vpkf5AmYkO0AQ7Q=="
+      "version": "1.12.24",
+      "resolved": "https://registry.npmjs.org/libphonenumber-js/-/libphonenumber-js-1.12.24.tgz",
+      "integrity": "sha512-l5IlyL9AONj4voSd7q9xkuQOL4u8Ty44puTic7J88CmdXkxfGsRfoVLXHCxppwehgpb/Chdb80FFehHqjN3ItQ=="
     }
   }
 }
