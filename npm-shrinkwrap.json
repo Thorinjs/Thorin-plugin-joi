@@ -1,15 +1,15 @@
 {
   "name": "thorin-plugin-joi",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "thorin-plugin-joi",
-      "version": "2.0.10",
+      "version": "2.0.11",
       "license": "MIT",
       "dependencies": {
-        "joi": "^18.2.1",
+        "joi": "^18.2.9",
         "libphonenumber-js": "1.12.24"
       }
     },
@@ -68,9 +68,9 @@
       "license": "MIT"
     },
     "node_modules/joi": {
-      "version": "18.2.1",
-      "resolved": "https://registry.npmjs.org/joi/-/joi-18.2.1.tgz",
-      "integrity": "sha512-2/OKlogiESf2Nh3TFCrRjrr9z1DRHeW0I+KReF67+4J0Ns+8hBtHRmoWAZ2OFU6I5+TWLEe6sVlSdXPjHm5UbQ==",
+      "version": "18.2.9",
+      "resolved": "https://registry.npmjs.org/joi/-/joi-18.2.9.tgz",
+      "integrity": "sha512-2mD929bUVKUhOLQQEVhlf6EZ0Mlo0DeRb5MO7cViR9AXLtBauuccEtB1py9Ocxpo/P7ucnh442iY/iOwrh3IQw==",
       "license": "BSD-3-Clause",
       "dependencies": {
         "@hapi/address": "^5.1.1",
@@ -135,9 +135,9 @@
       "integrity": "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="
     },
     "joi": {
-      "version": "18.2.1",
-      "resolved": "https://registry.npmjs.org/joi/-/joi-18.2.1.tgz",
-      "integrity": "sha512-2/OKlogiESf2Nh3TFCrRjrr9z1DRHeW0I+KReF67+4J0Ns+8hBtHRmoWAZ2OFU6I5+TWLEe6sVlSdXPjHm5UbQ==",
+      "version": "18.2.9",
+      "resolved": "https://registry.npmjs.org/joi/-/joi-18.2.9.tgz",
+      "integrity": "sha512-2mD929bUVKUhOLQQEVhlf6EZ0Mlo0DeRb5MO7cViR9AXLtBauuccEtB1py9Ocxpo/P7ucnh442iY/iOwrh3IQw==",
       "requires": {
         "@hapi/address": "^5.1.1",
         "@hapi/formula": "^3.0.2",
